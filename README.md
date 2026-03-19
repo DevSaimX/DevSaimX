@@ -7,9 +7,9 @@
 
 <div align="center">
 
-# 🙏 Namaste, I'm **Saim Iftikhar**
+# I'm **Saim Iftikhar**
 
-### `AI / ML Engineer` · `Software Developer` · `Res` · `Community Leader`
+### `AI / ML Engineer` · `Software Developer` · `Reshearcher` · `Community Leader`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;NLP+%7C+RAG+%7C+Deep+Learning;AI+Society+President+%40+BIIT;CGPA%3A+3.97+%2F+4.00+%F0%9F%8E%AF;Open+to+Collabs+%26+Freelance+%F0%9F%9A%80)](https://git.io/typing-svg)
 
