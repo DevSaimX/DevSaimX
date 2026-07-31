@@ -88,7 +88,7 @@ class DevSaimX:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevSaimX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaimX&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=DevSaimX&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaimX&layout=compact&theme=tokyonight&hide_border=true" />
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=DevSaimX&theme=tokyonight&no-frame=true&column=4" />
@@ -101,12 +101,12 @@ class DevSaimX:
 
 <div align="center">
 
-| Project | Stack | Link |
-|:---|:---|:---|
-| 🤖 **AgentForge** — Multi-tenant AI support agent platform with RAG and real-time streaming chat | `Next.js` `FastAPI` `Supabase/pgvector` | [Live Demo →](https://agent-forge-44gv.onrender.com) |
-| 📊 **Support Ticket SLA-Risk System** — Fine-tuned DistilBERT + LightGBM, PSI-based drift detection | `PyTorch` `LightGBM` `FastAPI` `Docker` | [GitHub →](https://github.com/DevSaimX/support-ticket-sla-system) |
-| 🏢 **DevHatch Labs** — Studio website, full custom design system | `Next.js` `Tailwind CSS` | [Live Site →](https://devhatchlabs.com) |
-| 📅 **MentorSlot** — Booking platform with concurrency-safe scheduling | `Next.js` `Prisma` `Stripe` | *In development* |
+| Project | Stack | Status |
+|:---|:---|:---:|
+| 🤖 **AgentForge**<br>Multi-tenant AI support agent platform with RAG + real-time streaming chat | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | [![Live Demo](https://img.shields.io/badge/●_Live_Demo-2ea44f?style=flat-square)](https://agent-forge-44gv.onrender.com) |
+| 📊 **Support Ticket SLA-Risk System**<br>Fine-tuned DistilBERT + LightGBM, PSI-based drift detection | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-black?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | [![GitHub Repo](https://img.shields.io/badge/-GitHub_Repo-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/DevSaimX/support-ticket-sla-system) |
+| 🏢 **DevHatch Labs**<br>Studio website, full custom design system | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [![Live Site](https://img.shields.io/badge/●_Live_Site-2ea44f?style=flat-square)](https://devhatchlabs.com) |
+| 📅 **MentorSlot**<br>Booking platform with concurrency-safe scheduling | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white) | ![In Development](https://img.shields.io/badge/In_Development-d29922?style=flat-square) |
 
 </div>
 
@@ -115,11 +115,11 @@ class DevSaimX:
 <div align="center">
 
 | Project | Stack | Repo |
-|:---|:---|:---|
-| 📄 Document QA RAG Chatbot | `NLP` `RAG` `LangChain` | [GitHub →](https://github.com/DevSaimX/Document-QA-Chatbot-RAG-) |
-| 🌿 Plant Disease Detection | `CNN` `TensorFlow` | [GitHub →](https://github.com/DevSaimX/plant-disease-detection-ml) |
-| 😊 Emotion Detection AI | `CNN` `Deep Learning` | [GitHub →](https://github.com/DevSaimX/emotion-detection-cnn) |
-| 💳 Credit Card Fraud Detection | `ML` `Scikit-learn` | [GitHub →](https://github.com/DevSaimX/fraud_detection) |
+|:---|:---|:---:|
+| 📄 Document QA RAG Chatbot | ![NLP](https://img.shields.io/badge/NLP-4c1d95?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/DevSaimX/Document-QA-Chatbot-RAG-) |
+| 🌿 Plant Disease Detection | ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/DevSaimX/plant-disease-detection-ml) |
+| 😊 Emotion Detection AI | ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square) | [![GitHub](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/DevSaimX/emotion-detection-cnn) |
+| 💳 Credit Card Fraud Detection | ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/DevSaimX/fraud_detection) |
 
 </div>
 
